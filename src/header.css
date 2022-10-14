@@ -1,0 +1,6 @@
+.hd {
+  background-color: rgb(22 22 22 / 46%);
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
